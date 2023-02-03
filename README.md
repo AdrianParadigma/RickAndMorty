@@ -1,1 +1,1 @@
-# RickAndMorty
+Rick And Morty Technical test
